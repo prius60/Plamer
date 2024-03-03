@@ -20,7 +20,7 @@
 
 - Multiple play modes (repeat on/off, shuffle)
 
-## [Video Demonstration](https://drive.prius60.com/api/public/dl/tkuHX_jA?inline=true)
+## [Video Demonstration](https://drive.prius60.com/api/public/dl/u6kRG5QM?inline=true)
 
 
 
